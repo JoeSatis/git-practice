@@ -6,4 +6,4 @@ Conflictブランチで変更
 rebase-practiceブランチで更新(Rebase コンフリクト用)
 rebase pull用
 stash練習（2nd change)
-
+ブランチの理解用練習(1st)
